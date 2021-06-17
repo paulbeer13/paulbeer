@@ -19,4 +19,4 @@ Wanneer dit word ingevoert reageert de discord bot met pong en de reactietijd in
 
 ### .stats
 Bijvoorbeeld: .stats Speler123 haalt de ingame gegevens van Speler123 op uit de League of Legends API.
-Vervolgens weergeeft hij de divies, tier en winrate van de ingegeven speler.
+Vervolgens weergeeft hij de Divisie, Tier en winrate van de ingegeven speler.
